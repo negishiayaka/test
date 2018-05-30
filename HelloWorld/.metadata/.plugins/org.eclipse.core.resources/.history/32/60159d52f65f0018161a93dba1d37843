@@ -1,0 +1,10 @@
+drop database if exists sampledb;
+create database sampledb;
+use sampledb;
+
+create table sample_table(
+No int, name varchar(50),age int,Mail varchar(50));
+
+insert into sample_table valies(1,"Yamada","21","aaaaa@gmail.com");
+insert into sample_table valies(2,"Sato","39","bbbbb@gmail.com");
+insert into sample_table valies(3,"Harada","44","ccccc@gmail.com");
