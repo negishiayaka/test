@@ -71,7 +71,7 @@ table {
   <div id="top">
    <p>UserCreateConfirm</p>
   </div>
-  </div>
+
     <h3>登録する内容は以下でよろしいですか。</h3>
     <table>
      <s:form action="UserCreateCompleteAction">
@@ -106,6 +106,7 @@ table {
         </tr>
         </s:form>
         </table>
+       </div>
 
        <div id="footer">
         <div id="pr">
