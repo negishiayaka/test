@@ -1,19 +1,16 @@
-INDEX VERSION 1.3+C:\Users\internousdev\Desktop\workspace\workspace-negishiayaka\test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3915913391.index
-2055351946.index
-4181453990.index
-2395670439.index
-1807067200.index
-1088260573.index
-1549101164.index
-2795787554.index
-3040267609.index
-2530802075.index
-3258056143.index
-2150458918.index
-1756593010.index
-4291883884.index
-726817018.index
-4170188757.index
-4170188757.index
-3835133314.index
+INDEX VERSION 1.3+/Users/negishiayaka/Desktop/workspace/test/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+744322432.index
+1609959051.index
+3799820266.index
+3263084252.index
+2081960521.index
+2109488832.index
+2699670921.index
+4192813849.index
+1224972598.index
+186581727.index
+2507904892.index
+3417804508.index
+3715461608.index
+722610765.index
+415600953.index
